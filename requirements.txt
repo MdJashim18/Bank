@@ -1,0 +1,9 @@
+asgiref
+cmake
+Django
+django-environ
+pillow
+setuptools
+sqlparse
+tzdata
+wheel
